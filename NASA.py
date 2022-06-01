@@ -1,0 +1,6 @@
+print("NASA.begin")
+print("NASA.hack")
+print("NASA.launch")
+print("NASA.del")
+print("NASA.commit_suicide")
+print("del.NASA")
